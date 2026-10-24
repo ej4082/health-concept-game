@@ -6,6 +6,7 @@
 - 저장소: https://github.com/ej4082/health-concept-game
 - 카카오톡 링크 공유: 페이지의 Open Graph 제목·설명·대표 이미지를 사용합니다.
 - 대표 이미지: `og-image.png` (1200 × 630)
-- 공유용 QR 코드: `health-concept-game-qr.png`
+- 공유용 QR 코드: `health-concept-game-qr-v2.png`
 
 사이트는 별도의 빌드 명령 없이 Vercel에서 배포됩니다.
+
